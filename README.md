@@ -1,4 +1,4 @@
-### Hi there I'm shinno1! :cloud::umbrella::zap::snowflake::sunny:
+### Hi there I'm shinno1! :cloud::umbrella::zap::sunny:
 <!--
 **shinno1/shinno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
